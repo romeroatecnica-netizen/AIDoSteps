@@ -1,0 +1,6 @@
+{
+  "name": "AIDoSteps",
+  "description": "How to Do Everyday Tasks with AI: 40 step-by-step interactive workflows, vector SVG diagrams, local prompt builders, and verification checklists in 10 languages.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
